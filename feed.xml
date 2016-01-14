@@ -7,6 +7,19 @@
         <atom:link href="http://kybt.github.io/tt10/feed.xml" rel="self" type="application/rss+xml" />
         
             <item>
+               <title>kkktetst14</title>
+               <description>&lt;ul&gt;
+  &lt;li&gt;test 15&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;I’m kobea&lt;/strong&gt;&lt;/p&gt;
+</description>
+               <pubDate>Fri, 15 Jan 2016 03:41:20 +0800</pubDate>
+               <link>http://kybt.github.io/tt10/2016/01/15/page7/</link>
+               <guid isPermaLink="true">http://kybt.github.io/tt10/2016/01/15/page7/</guid>
+               </item>
+        
+            <item>
                <title>Hello</title>
                <description>&lt;ul&gt;
   &lt;li&gt;test tt15&lt;/li&gt;
@@ -509,94 +522,6 @@ Research Center.&lt;/p&gt;
                <pubDate>Tue, 23 Jun 2015 18:19:41 +0800</pubDate>
                <link>http://kybt.github.io/tt10/2015/06/23/page2/</link>
                <guid isPermaLink="true">http://kybt.github.io/tt10/2015/06/23/page2/</guid>
-               </item>
-        
-            <item>
-               <title>dnsv6lab</title>
-               <description>&lt;p&gt;This is the Yeti DNS Project, an experimental testbed network of DNS root name servers.
-&lt;!-- more --&gt;
-This testbed network will be used to discover the limits of DNS root
-name service, including the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Can root name service succeed if it is only connected via IPv6 (and
-never via IPv4)?&lt;/li&gt;
-  &lt;li&gt;Can we change the DNSSEC “ZSK” more frequently, perhaps every two weeks?&lt;/li&gt;
-  &lt;li&gt;Can we change the DNSSEC “KSK” more frequently, perhaps every six weeks?&lt;/li&gt;
-  &lt;li&gt;How many root name servers is enough? How many is too many?&lt;/li&gt;
-  &lt;li&gt;Can we add and delete root name server operators frequently, such as
-every month?&lt;/li&gt;
-  &lt;li&gt;Can the IANA name space be served by more than one set of root name
-servers?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Note that the Yeti DNS project has complete fealty to IANA as the DNS
-name space manager. All IANA top-level domain names will be precisely
-expressed in the Yeti DNS system, including all TLD data and meta-data.
-So, the Yeti DNS project is not an “alternative root” in any sense of
-that term. We hope to inform the IANA community by peer-reviewed science
-as to future possibilities to consider for the IANA root DNS system.&lt;/p&gt;
-
-&lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
-&lt;p&gt;The latest zone file, public key, and description of the Yeti DNS
-project are placed in a repository in GitHub:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://github.com/BII-Lab/Yeti-Project&quot;&gt;https://github.com/BII-Lab/Yeti-Project&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;There is a discussion mailing list for project participants, reachable
-here:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;http://lists.yeti-dns.org/mailman/listinfo/discuss&quot;&gt;http://lists.yeti-dns.org/mailman/listinfo/discuss&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;statistics&quot;&gt;Statistics&lt;/h2&gt;
-&lt;p&gt;The DSC page of the Yeti root servers is available, where you can see
-the traffic of the testbed:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;http://dsc.yeti-dns.org/dsc-grapher.pl?plot=bynode&amp;amp;server=Yeti-Project&quot;&gt;http://dsc.yeti-dns.org/dsc-grapher.pl?plot=bynode&amp;amp;server=Yeti-Project&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;coordination-and-participation&quot;&gt;Coordination and Participation&lt;/h2&gt;
-&lt;p&gt;The Yeti DNS project was launched in March 2015 by representatives from
-WIDE, BII, and TISF, who now act as co-equal project coordinators. The
-role of the coordinators includes outreach to the community, cooperation
-with Yeti DNS authority name server operators (“providers”), and support
-for Yeti DNS recursive name server operators (“subscribers”). Initially,
-the coordinators will also operate the Yeti DNS distribution master servers.&lt;/p&gt;
-
-&lt;p&gt;The Yeti DNS project coordinators invite interested authority name
-server operators, recursive name server operators, to contact us by e-mail,
-either individually:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#108;&amp;#106;&amp;#115;&amp;#111;&amp;#110;&amp;#103;&amp;#064;&amp;#098;&amp;#105;&amp;#105;&amp;#103;&amp;#114;&amp;#111;&amp;#117;&amp;#112;&amp;#046;&amp;#099;&amp;#110;&quot;&gt;&amp;#108;&amp;#106;&amp;#115;&amp;#111;&amp;#110;&amp;#103;&amp;#064;&amp;#098;&amp;#105;&amp;#105;&amp;#103;&amp;#114;&amp;#111;&amp;#117;&amp;#112;&amp;#046;&amp;#099;&amp;#110;&lt;/a&gt; (Davey Song)
-&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#097;&amp;#116;&amp;#111;&amp;#064;&amp;#119;&amp;#105;&amp;#100;&amp;#101;&amp;#046;&amp;#097;&amp;#100;&amp;#046;&amp;#106;&amp;#112;&quot;&gt;&amp;#107;&amp;#097;&amp;#116;&amp;#111;&amp;#064;&amp;#119;&amp;#105;&amp;#100;&amp;#101;&amp;#046;&amp;#097;&amp;#100;&amp;#046;&amp;#106;&amp;#112;&lt;/a&gt; (Akira Kato)
-&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#118;&amp;#105;&amp;#120;&amp;#105;&amp;#101;&amp;#064;&amp;#116;&amp;#105;&amp;#115;&amp;#102;&amp;#046;&amp;#110;&amp;#101;&amp;#116;&quot;&gt;&amp;#118;&amp;#105;&amp;#120;&amp;#105;&amp;#101;&amp;#064;&amp;#116;&amp;#105;&amp;#115;&amp;#102;&amp;#046;&amp;#110;&amp;#101;&amp;#116;&lt;/a&gt; (Paul Vixie)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;…or as a team:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#099;&amp;#111;&amp;#111;&amp;#114;&amp;#100;&amp;#105;&amp;#110;&amp;#097;&amp;#116;&amp;#111;&amp;#114;&amp;#115;&amp;#064;&amp;#108;&amp;#105;&amp;#115;&amp;#116;&amp;#115;&amp;#046;&amp;#121;&amp;#101;&amp;#116;&amp;#105;&amp;#045;&amp;#100;&amp;#110;&amp;#115;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;&amp;#099;&amp;#111;&amp;#111;&amp;#114;&amp;#100;&amp;#105;&amp;#110;&amp;#097;&amp;#116;&amp;#111;&amp;#114;&amp;#115;&amp;#064;&amp;#108;&amp;#105;&amp;#115;&amp;#116;&amp;#115;&amp;#046;&amp;#121;&amp;#101;&amp;#116;&amp;#105;&amp;#045;&amp;#100;&amp;#110;&amp;#115;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;about-us&quot;&gt;About Us&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://biigroup.com/en&quot;&gt;BII Group&lt;/a&gt; — the parent company of BII (Beijing
-Internet Institute), a public interest company serving as BII’s Engineering
-Research Center.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.wide.ad.jp/&quot;&gt;WIDE&lt;/a&gt; — Widely Integrated Distributed Environment.&lt;/p&gt;
-
-&lt;p&gt;TISF — a collaborative engineering and security project by Paul Vixie.&lt;/p&gt;
-</description>
-               <pubDate>Mon, 22 Jun 2015 18:19:41 +0800</pubDate>
-               <link>http://kybt.github.io/tt10/2015/06/22/page1/</link>
-               <guid isPermaLink="true">http://kybt.github.io/tt10/2015/06/22/page1/</guid>
                </item>
         
     </channel>
